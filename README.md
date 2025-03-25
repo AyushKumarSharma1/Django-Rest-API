@@ -1,3 +1,3 @@
 # Django-Rest-API
 
-# It's Just a bsic django rest freamwork example.
+It's Just a basic django rest freamwork example.
